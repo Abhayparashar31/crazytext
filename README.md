@@ -1,6 +1,12 @@
 ## crazytext
 
-crazytext: An Easy To Use Text Cleaning Package For NLP Built In Python
+**crazytext**: ***An Easy To Use Text Cleaning Package For NLP Built In Python***
+
+Some Times Text Can Become Very Crazy That The Content You Want and Really Useful Become Very Hard To Extract. crazytext is here to help you.
+It offers one line code snippets to clean and analyze your text faster than you.
+
+*why do the hard work when there is an option for smart work*- **Creator crazytext**
+
 
 #### Dependencies
 ```
