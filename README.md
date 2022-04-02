@@ -1,5 +1,3 @@
-# Project Descriction
-
 ## crazytext
 
 crazytext: An Easy To Use Text Cleaning Package For NLP Built In Python
