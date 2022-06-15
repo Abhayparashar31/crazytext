@@ -20,8 +20,6 @@ import unicodedata
 from textblob import TextBlob
 
 
-
-
 path = os.path.dirname(os.path.abspath(__file__))
 abbreviations_path = os.path.join(path, 'data','abbreviations_wordlist.json')
 
