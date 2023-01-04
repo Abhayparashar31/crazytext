@@ -731,7 +731,7 @@ class Cleaner(Extractor):
 		x = self.text
 		return re.sub('[0-9]',"",x)
 
-	def remomve_abber(self):
+	def remove_abber(self):
 		""" Replace Abbreviations Words With Their Full Form.
 
 			Example of Abberviations : 
